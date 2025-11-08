@@ -1,6 +1,6 @@
 # 1️ Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/employee-dashboard.git
+git clone https://github.com/JoySarkarBD/employee-dashboard.git
 
 # 2️ Navigate into the project folder
 
