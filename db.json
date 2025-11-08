@@ -1,0 +1,139 @@
+{
+  "employees": [
+    {
+      "name": "Alice Johnson",
+      "department": "Engineering",
+      "role": "Frontend Developer",
+      "joiningDate": "2023-03-10",
+      "status": "Archived",
+      "performanceScore": 78,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Bob Lee",
+      "department": "HR",
+      "role": "Recruiter",
+      "joiningDate": "2022-10-22",
+      "status": "On Leave",
+      "performanceScore": 85
+    },
+    {
+      "id": 3,
+      "name": "Carlos Mendes",
+      "department": "Finance",
+      "role": "Accountant",
+      "joiningDate": "2021-06-01",
+      "status": "Active",
+      "performanceScore": 92
+    },
+    {
+      "name": "Diana Prince",
+      "department": "Marketing",
+      "role": "Content Strategist",
+      "joiningDate": "2020-11-15",
+      "status": "Active",
+      "performanceScore": 88,
+      "id": 4
+    },
+    {
+      "name": "Ethan Hunt",
+      "department": "Engineering",
+      "role": "Logistics Manager",
+      "joiningDate": "2019-08-30",
+      "status": "Active",
+      "performanceScore": 95,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Fiona Gallagher",
+      "department": "Customer Support",
+      "role": "Support Specialist",
+      "joiningDate": "2021-01-20",
+      "status": "Active",
+      "performanceScore": 76
+    },
+    {
+      "id": 7,
+      "name": "George Clooney",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "joiningDate": "2022-05-14",
+      "status": "On Leave",
+      "performanceScore": 82
+    },
+    {
+      "id": 8,
+      "name": "Hannah Baker",
+      "department": "HR",
+      "role": "HR Manager",
+      "joiningDate": "2018-12-03",
+      "status": "Active",
+      "performanceScore": 91
+    },
+    {
+      "id": 9,
+      "name": "Ian Somerhalder",
+      "department": "Finance",
+      "role": "Financial Analyst",
+      "joiningDate": "2020-07-19",
+      "status": "Inactive",
+      "performanceScore": 67
+    },
+    {
+      "id": 10,
+      "name": "Jenna Fischer",
+      "department": "Marketing",
+      "role": "SEO Specialist",
+      "joiningDate": "2019-04-25",
+      "status": "Active",
+      "performanceScore": 89
+    },
+    {
+      "id": 11,
+      "name": "Kevin Hart",
+      "department": "Operations",
+      "role": "Operations Coordinator",
+      "joiningDate": "2021-09-12",
+      "status": "Active",
+      "performanceScore": 84
+    },
+    {
+      "id": 12,
+      "name": "Laura Prepon",
+      "department": "Customer Support",
+      "role": "Customer Success Manager",
+      "joiningDate": "2020-02-28",
+      "status": "On Leave",
+      "performanceScore": 73
+    },
+    {
+      "id": 13,
+      "name": "Michael Scott",
+      "department": "Management",
+      "role": "Regional Manager",
+      "joiningDate": "2017-03-15",
+      "status": "Active",
+      "performanceScore": 79
+    },
+    {
+      "id": 14,
+      "name": "Nina Dobrev",
+      "department": "Engineering",
+      "role": "Full Stack Developer",
+      "joiningDate": "2022-11-05",
+      "status": "Active",
+      "performanceScore": 96
+    },
+    {
+      "id": 15,
+      "name": "Oscar Isaac",
+      "department": "HR",
+      "role": "Talent Acquisition Specialist",
+      "joiningDate": "2019-06-18",
+      "status": "Inactive",
+      "performanceScore": 71
+    }
+  ]
+}
